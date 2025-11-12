@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --font-family-alfa: "Alfa Slab One", serif;
+  --font-family-nerko: "Nerko One", cursive;
+  --font-family-poppins: "Poppins", sans-serif;
+  --font-family-rubik: "Rubik Wet Paint", system-ui;
+}
